@@ -1,0 +1,10 @@
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+    "name": "978-0544003415",
+    "author": "J.R.R. Tolkien"
+}
+
+###
+
